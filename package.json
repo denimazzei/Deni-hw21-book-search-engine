@@ -2,7 +2,6 @@
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://denimazzei.github.io/Deni-hw21-book-search-engine",
   "main": "server/server.js",
   "scripts": {
     "predeploy": "npm run build",
